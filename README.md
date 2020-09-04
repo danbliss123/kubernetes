@@ -1,3 +1,6 @@
+# Git is cool
+Dan says git is cool
+
 # Kubernetes
 
 [![GoDoc Widget]][GoDoc] [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/569/badge)](https://bestpractices.coreinfrastructure.org/projects/569)
